@@ -1,1 +1,7 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
+title: [WW's Portfolio]
+tagline: [William Wang's portfolio website]
+description: [This website is for showcasing projects and works I have done or are working on.]

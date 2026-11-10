@@ -7,11 +7,12 @@ title: Home
 - [About me](#about-me)
 - [Education](#education)
 - [Previous Works](#previous-works)
-    1. [Paper Pilot](#paper-pilot-video-game)
-    2. [AI-Assisted Semantics Extractor and Tester](#ai-assisted-semantics-extractor-and-tester)
-    3. [The Scuttler](#the-scuttler-video-game)
-    4. [Docucare Mobile App](#docucare-mobile-application)
-    5. [Docucare Web Application](#docucare-emr-web-application)
+    1. [Automated Text Reminders and Billing Sheet Export](#automated-text-reminders-and-billing-sheet-export) 
+    2. [Paper Pilot](#paper-pilot-video-game)
+    3. [AI-Assisted Semantics Extractor and Tester](#ai-assisted-semantics-extractor-and-tester)
+    4. [The Scuttler](#the-scuttler-video-game)
+    5. [Docucare Mobile App](#docucare-mobile-application)
+    6. [Docucare Web Application](#docucare-emr-web-application)
 - [Works in Progress](#works-in-progress)  
     
 # <span style="font-family: Courier New; color: #4B7231;">About Me</span>
@@ -24,7 +25,7 @@ I am a full-stack software engineer with a family background in healthcare. Pass
 
 # <span style="font-family: Courier New; color: #4B7231;">Previous Works</span>
 
-## Automated Text Reminders and Customized Billing Sheet Export
+## Automated Text Reminders and Billing Sheet Export
 August 2026 - November 2026
 
 Sends an automated reminder text to tomorrow's patients for their upcoming appointment on google sheets through an SMS gate. Additionally exports a PDF of billing sheets for each patient to the google drive, filling in simple information on each billing sheet.

@@ -1,0 +1,25 @@
+---
+---
+
+@import "jekyll-theme-hacker";
+
+header h1 {
+  font-size: 38px; /* Default is typically 30px */
+}
+
+body h1 {
+  font-size: 38px;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-user-select: none; /* Safari */
+  user-select: none; 
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
